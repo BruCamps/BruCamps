@@ -13,7 +13,7 @@
   <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt=Bru-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Bru-picture" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/9618070/avatars/normal/0c2b8f6ae8efe2cded826331d3651238.png?1635294227">
+  <img align="right" alt="Bru-picture" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/9618070/avatars/normal/a116b1f13d6f4b0da23cd1394b71b2c7.png?1636232668">
 </div>
   
   ##
