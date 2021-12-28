@@ -1,4 +1,4 @@
-### Heyyy! I'm Bruna Campos
+### Heyyy! I'm Bruna Camps
 
 <div align="left">
   <a href="https://github.com/BruCamps">
