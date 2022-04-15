@@ -18,8 +18,6 @@
   <a href="https://www.instagram.com/brucamps_095/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://discord.gg/f3WwVfXhR4" target="_blank"><img src="https://img.shields.io/badge/Discord-7271DA?style=for-the-badge&logo=discord&logoColor=white">
   <a href="https://www.linkedin.com/in/bruna-campos-a40418219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:belac@etepd.com"><img src="https://img.shields.io/badge/Gmail-C49402?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
   ![Snake animation](https://github.com/brucamps/brucamps/blob/output/github-contribution-grid-snake.svg)
   
 </div>
