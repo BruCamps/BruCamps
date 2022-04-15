@@ -1,23 +1,24 @@
 ### Hey, I'm Bruna! 🌸✨
 
 <div align="left">
-  <a href="https://github.com/BruCamps">
+  <a href="https://github.com/BruCamps"></a>
 </div>
   
-  #### 💎 Commonly used tools
+  #### Here you'll find a programming student pledged to making good projects. Click and see my best works. 
+  
+  
+  #### 💻 Commonly used tools
   
   <div style="display: inline_block">
-    <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=F95A5A">
-    <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=3D80D6">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=1BCA72">
-    <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=1CA1ED">
+    <img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=html5&logoColor=F95A5A">
+    <img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=css3&logoColor=3D80D6">
+    <img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=node.js&logoColor=1BCA72">
+    <img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </div>
   
   <img align="right" alt="Bru-picture" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/9618070/avatars/normal/a116b1f13d6f4b0da23cd1394b71b2c7.png?1636232668" />
   
-  ##
   
   #### 💬 Find me elsewhere
   
