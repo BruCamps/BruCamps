@@ -16,9 +16,7 @@
     <img src="https://img.shields.io/badge/•-20232A?style=for-the-badge&logo=node.js&logoColor=1BCA72">
     <img src="https://img.shields.io/badge/•-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </div>
-  
-  <img align="right" alt="Bru-picture" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/9618070/avatars/normal/a116b1f13d6f4b0da23cd1394b71b2c7.png?1636232668" />
-  
+
   
   #### 💬 Find me elsewhere
   
