@@ -4,7 +4,7 @@
   <a href="https://github.com/BruCamps"></a>
 </div>
   
-  #### Here you'll find a programming student pledged to making good projects. Click and see my best works. 🌻✨
+  #### I'm a student pledged to making good projects. Click and see my best works. 🌻✨
   
   
   #### 💻 Commonly used tools
