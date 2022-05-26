@@ -4,7 +4,7 @@
   <a href="https://github.com/BruCamps"></a>
 </div>
   
-  #### I'm a student pledged to making good projects. Click and see my best works. 🌻✨
+  #### I intend to join the Technology area as a Front-end developer. I like to work in groups, I'm curious and I'm always looking for knowledge. Click and see my best works. 🌻✨
   
   
   #### 💻 Commonly used tools
