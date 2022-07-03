@@ -1,15 +1,14 @@
-### About Me ✨
+  
+  <h3 align="center">About Me</h3>
 
-<div align="left">
-  <a href="https://github.com/BruCamps"></a>
-</div>
-  
-  #### I intend to join the Technology area as a Front-end developer. I like to work in groups, I'm curious and I'm always looking for knowledge. Click and see my best works. 
-  
+  <div style="display: inline_block"> <br>
+  <p align="center"> I intend to join the Technology area as a Front-end developer. <br> I like to work in groups, I'm curious and I'm always looking for knowledge. <br> Click and see my best works.</p>
+  <img align="right" style="width: 200px;" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png">
+  </div>
   
   #### 💻 Commonly used tools
   
-  <div style="display: inline_block">
+  <div>
     <img style="border-radius: 5px" src="https://img.shields.io/badge/•-20232A?style=for-the-badge&logo=html5&logoColor=F95A5A">
     <img style="border-radius: 5px"  src="https://img.shields.io/badge/•-20232A?style=for-the-badge&logo=css3&logoColor=3D80D6">
     <img style="border-radius: 5px" src="https://img.shields.io/badge/•-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
