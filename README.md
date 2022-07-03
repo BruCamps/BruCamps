@@ -12,7 +12,6 @@
     <img style="border-radius: 5px" src="https://img.shields.io/badge/•-20232A?style=for-the-badge&logo=html5&logoColor=F95A5A">
     <img style="border-radius: 5px"  src="https://img.shields.io/badge/•-20232A?style=for-the-badge&logo=css3&logoColor=3D80D6">
     <img style="border-radius: 5px" src="https://img.shields.io/badge/•-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img style="border-radius: 5px" src="https://img.shields.io/badge/•-20232A?style=for-the-badge&logo=node.js&logoColor=1BCA72">
     <img style="border-radius: 5px" src="https://img.shields.io/badge/•-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </div>
 
