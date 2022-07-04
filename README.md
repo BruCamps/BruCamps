@@ -1,7 +1,7 @@
   
-  <h3 align="center">Sobre mim</h3>
+  <h3 align="center">Quem sou eu</h3>
 
-  <p align="center"> Meu nome é Bruna, sou do Recife e no momento estou cursando o 3° ano do Ensino Médio. <br> Me entendo como uma pessoa curiosa e amo tudo que envolve tecnologia.</p>
+ <p align="center"> Oi gente, meu nome é Bruna. Sou dedicada, mente aberta e bem curiosa. Atualmente estou desenvolvendo alguns projetos e... </p>
   
   ##
   
