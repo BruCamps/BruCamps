@@ -1,7 +1,7 @@
   
-  <h3 align="center">Eu sou assim</h3>
+  <h3 align="center">Quem sou eu</h3>
 
- <p align="center" width="100%"> Oiii! Meu nome é Bruna, tenho 16 anos e sou de Recife. Entre meus hobbies preferidos <br> estão desenhar e tocar ukulele. Sonho em me tornar uma Desenvolvedora Front-End e <br> ser reconhecida pelo meu trabalho. Atualmente estou desenvolvendo alguns projetos <br> a fim de afiar minhas habilidades em programação e enriquecer meu portfólio. <br> Enfim, prazer em te conhecer e espero que goste do que vai encontrar por aqui. </p>
+ <p align="center"> Oiii! Meu nome é Bruna, tenho 16 anos e sou de Recife. Entre meus hobbies preferidos estão desenhar e tocar ukulele. Sonho em me tornar uma Desenvolvedora Front-End e ser reconhecida pelo meu trabalho. Atualmente estou desenvolvendo alguns projetos a fim de afiar minhas habilidades em programação e enriquecer meu portfólio. Enfim, prazer em te conhecer e espero que goste do que vai encontrar por aqui. </p>
   
   ##
   
@@ -15,7 +15,6 @@
     <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/html5.svg" width="42" />
     <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/css3.svg" width="42" />
     <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/javascript.svg" width="42" />
-    <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/my-sql.svg" width="42" />
   </div>
 
   
