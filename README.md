@@ -11,7 +11,7 @@
    
    Atualmente estou desenvolvendo alguns projetos a fim de afiar minhas habilidades em <br> programação e enriquecer meu portfólio.
    
-   ``Se meu trabalho te interessar podemos bater um papo. 😊✨``
+   ``Se meu trabalho te interessar, entra em contato. Adoraria bater um papo com você. 😊✨``
   
   ##
   
