@@ -1,7 +1,7 @@
   
   <h3 align="center">Quem sou eu</h3>
   
-  <img align="right" width="25%" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png">
+  <img align="right" width="26%" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png">
 
   <br>
  
@@ -9,9 +9,9 @@
    
    Sonho em me tornar uma Desenvolvedora Front-End e ser reconhecida pelo meu trabalho. 
    
-   Atualmente estou desenvolvendo alguns projetos a fim de afiar minhas habilidades em programação e enriquecer meu portfólio.
+   Atualmente estou desenvolvendo alguns projetos a fim de afiar minhas habilidades em <br> programação e enriquecer meu portfólio.
    
-   Enfim, prazer em te conhecer e espero que goste do que vai encontrar por aqui.
+   Enfim, prazer em te conhecer e espero que goste do que vai encontrar por aqui. 
   
   ##
   
