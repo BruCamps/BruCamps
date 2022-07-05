@@ -15,6 +15,7 @@
     <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/html5.svg" width="42" />
     <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/css3.svg" width="42" />
     <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/javascript.svg" width="42" />
+    <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/my-sql.svg" width="42" />
   </div>
 
   
