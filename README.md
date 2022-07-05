@@ -1,7 +1,7 @@
   
   <h3 align="center">Eu sou assim</h3>
 
- <p align="center"> Oi gente, meu nome é Bruna. Tenho 16 anos e sou de Recife. Sonho em me tornar uma Desenvolvedora Front-End, <br> ser reconhecida pelo meu trabalho e ajudar minha família. Entre meus hobbies preferidos estão desenhar e tocar ukulele. <br> Atualmente estou desenvolvendo alguns projetos a fim de afiar minhas habilidades em programação e enriquecer meu portfólio. <br> Enfim, prazer em te conhecer e espero que goste do que vai encontrar por aqui. </p>
+ <p align="center"> Oiii! Meu nome é Bruna, tenho 16 anos e sou de Recife. Entre meus hobbies preferidos <br> estão desenhar e tocar ukulele. Sonho em me tornar uma Desenvolvedora Front-End e <br> ser reconhecida pelo meu trabalho. Atualmente estou desenvolvendo alguns projetos <br> a fim de afiar minhas habilidades em programação e enriquecer meu portfólio. <br> Enfim, prazer em te conhecer e espero que goste do que vai encontrar por aqui. </p>
   
   ##
   
