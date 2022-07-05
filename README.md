@@ -1,11 +1,11 @@
   
   <h3 align="center">Eu sou assim</h3>
 
- <p align="center"> Oiii! Meu nome é Bruna, tenho 16 anos e sou de Recife. Entre meus hobbies preferidos <br> estão desenhar e tocar ukulele. Sonho em me tornar uma Desenvolvedora Front-End e <br> ser reconhecida pelo meu trabalho. Atualmente estou desenvolvendo alguns projetos <br> a fim de afiar minhas habilidades em programação e enriquecer meu portfólio. <br> Enfim, prazer em te conhecer e espero que goste do que vai encontrar por aqui. </p>
+ <p align="center" width="50%"> Oiii! Meu nome é Bruna, tenho 16 anos e sou de Recife. Entre meus hobbies preferidos <br> estão desenhar e tocar ukulele. Sonho em me tornar uma Desenvolvedora Front-End e <br> ser reconhecida pelo meu trabalho. Atualmente estou desenvolvendo alguns projetos <br> a fim de afiar minhas habilidades em programação e enriquecer meu portfólio. <br> Enfim, prazer em te conhecer e espero que goste do que vai encontrar por aqui. </p>
   
   ##
   
-  <img align="right" style="width: 200px;" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png">
+  <img align="right" width="50%" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png">
   
   
   
