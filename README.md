@@ -4,7 +4,7 @@
  
   **Oiii! Meu nome é Bruna, tenho 16 anos e sou de Recife.**
 
-  Sonho em me tornar uma **Desenvolvedora Front-End** e ser reconhecida pelo meu trabalho. 
+  Sonho em me tornar uma **Desenvolvedora Front-End** e conhecer o mundo. 
 
   Atualmente estou desenvolvendo alguns projetos a fim de afiar **minhas habilidades em <br> programação** e enriquecer **meu portfólio**.
 
