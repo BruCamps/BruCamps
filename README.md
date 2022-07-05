@@ -11,7 +11,7 @@
    
    Atualmente estou desenvolvendo alguns projetos a fim de afiar minhas habilidades em <br> programação e enriquecer meu portfólio.
    
-   Enfim, prazer em te conhecer e espero que goste do que vai encontrar por aqui. 
+   Enfim, prazer em te conhecer e espero que goste do que vai encontrar por aqui. 😊✨
   
   ##
   
