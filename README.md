@@ -5,7 +5,7 @@
   
   ##
   
-  <img align="right" width="45%" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png">
+  <img align="right" width="30%" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png">
   
   
   
@@ -30,14 +30,14 @@
   #### Me encontre também aqui
   
   <div>
-    <a href="https://discord.gg/tN5vvDZ7jz">
-      <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/discord-2.svg" />
-    </a>
     <a href="https://www.instagram.com/brucamps_095/">
-      <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/instagram.svg" />
+      <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/instagram-.png" width="42"  />
+    </a>
+    <a href="https://discord.gg/tN5vvDZ7jz">
+      <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/discord-.png" width="42"  />
     </a>
     <a href="https://www.linkedin.com/in/bruna-campos-a40418219/">
-      <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/linkedin.svg" />
+      <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/linkedin-.png" width="42"  />
     </a>
   </div>
   
