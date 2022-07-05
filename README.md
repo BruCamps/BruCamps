@@ -1,6 +1,4 @@
-  
-  <h3 align="center">Quem sou eu</h3>
-  
+
   <img align="right" width="26%" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png">
 
   <br>
