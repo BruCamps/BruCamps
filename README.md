@@ -5,7 +5,7 @@
   
   ##
   
-  <img align="right" width="50%" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png">
+  <img align="right" width="45%" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png">
   
   
   
