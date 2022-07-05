@@ -9,7 +9,7 @@
   
   
   
-  #### Softwares que uso atualmente
+  #### Softwares recentes
   
   <div>
   <a href="https://www.linkedin.com/in/bruna-campos-a40418219/">
