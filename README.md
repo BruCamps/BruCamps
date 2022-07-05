@@ -14,7 +14,7 @@
   
   <details>
   
-  <summary><b> 💻 • Softwares Recentes </b></summary> <br>
+  <summary><b> ✨🐱‍💻 • Softwares Recentes </b></summary> <br>
   
   <div>
     <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/html5.svg" />
@@ -26,7 +26,7 @@
 
   <details>
   
-  <summary><b> 💬 • Me encontre também aqui </b></summary> <br>  
+  <summary><b> ✨🔎 • Me encontre também aqui </b></summary> <br>  
   
   <div>
     <a href="https://www.instagram.com/brucamps_095/">
