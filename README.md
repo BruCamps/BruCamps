@@ -18,9 +18,9 @@
   #### Softwares recentes
   
   <div>
-    <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/html5.svg" width="42" />
-    <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/css3.svg" width="42" />
-    <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/javascript.svg" width="42" />
+    <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/html5.svg" />
+    <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/css3.svg" />
+    <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/javascript.svg" />
   </div>
 
   
@@ -28,13 +28,13 @@
   
   <div>
     <a href="https://www.instagram.com/brucamps_095/">
-      <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/instagram-.png" width="42"  />
+      <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/instagram-.png" width="42" />
     </a>
     <a href="https://discord.gg/tN5vvDZ7jz">
-      <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/discord-.png" width="42"  />
+      <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/discord-.png" width="42" />
     </a>
     <a href="https://www.linkedin.com/in/bruna-campos-a40418219/">
-      <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/linkedin-.png" width="42"  />
+      <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/linkedin-.png" width="42" />
     </a>
   </div>
   
