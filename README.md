@@ -1,7 +1,7 @@
   
   <h3 align="center">Quem sou eu</h3>
   
-  <img align="right" width="20%" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png">
+  <img align="right" width="25%" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png">
 
   <br>
  
