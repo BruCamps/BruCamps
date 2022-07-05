@@ -1,7 +1,7 @@
   
-  <h3 align="center">Quem sou eu</h3>
+  <h3 align="center">Eu sou assim</h3>
 
- <p align="center"> Oi gente, meu nome é Bruna. Tenho 16 anos e sou uma pessoa empenhada e curiosa. <br> Atualmente estou desenvolvendo alguns projetos e em breve pretendo criar um portfólio para expor meus trabalhos.  </p>
+ <p align="center"> Oi gente, meu nome é Bruna. Tenho 16 anos e sou de Recife. <br> Atualmente estou desenvolvendo alguns projetos e em breve pretendo criar um portfólio para expor meus trabalhos.  </p>
   
   ##
   
