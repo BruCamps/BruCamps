@@ -2,7 +2,7 @@
   <img align="right" width="28%" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png">
   
  
-  **Oiii! Meu nome é Bruna, tenho 17 anos e sou de Recife.**
+  **Oiii! Meu nome é Bruna, tenho 18 anos e sou de Recife.**
 
   Sonho em me tornar uma **Desenvolvedora Front-End** e conhecer o mundo. 
 
