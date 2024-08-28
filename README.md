@@ -1,41 +1,51 @@
-  
-<img align="right" width="28%" src="https://cdn.discordapp.com/attachments/925439012397809694/992946178624852078/Img_BruCamps.png?ex=66bbf6b1&is=66baa531&hm=008489a279f97105489386dbb818d8d51c7fe49baf4a95b620752cc24a9e6b0a&" />
-  
- 
-  **Oiii! Meu nome é Bruna, tenho 18 anos e sou de Recife.**
-  
-  Sou apaixonada pela área de tecnologia e já tive a oportunidade de aprender sobre design e<br> algumas linguagens de programação tanto do front-end quanto back-end.
 
-  📚 Técnica em Desenvolvimento de Sistemas pela ETE Porto Digital<br>
-  ⭐ Amo música, arte e gatos<br>
-
-  Atualmente estou desenvolvendo alguns projetos a fim de aprimorar **minhas habilidades em <br> programação** e enriquecer **meu portfólio**.
-
-  ###### ➔ Se meu trabalho te interessar, entra em contato. Adoraria bater um papo com você. 😊
+## **Hello, Devs! Me chamo Bruna Campos! ✨**
   
-  ##
+> #### Sou programadora, designer e técnica em desenvolvimento de sistemas
 
-<h3><b>🐱‍💻✨ • Tecnologias Recentes</b></h3>
+## Sobre mim
+
+💜 Sou curiosa, empenhada em aprender constantemente<br>e adoro desenvolver soluções
+
+💻 Possuo experiência em **HTML, CSS e ReactJS** 
+
+📄 Possuo experiência em **Design Web e Figma**
+
+☕ Adoro um cafézinho
+
+⭐ Gosto de ler, tocar ukulele e desenhar
+
+
+
+## **Tecnologias & Ferramentas**
 <div>
-  <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/html5.svg" />
-  <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/css3.svg" />
-  <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/javascript.svg" />
-  <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/python.png" width="44px" />
-  <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/reactjs.png" width="44px" />
-  <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/softwares/next.png" width="44px" />
+  <img align="center" src="./src/images/icons/softwares/html5.svg" alt="Icon-HTML5" />
+  <img align="center" src="./src/images/icons/softwares/css3.svg" alt="Icon-CSS3" />
+  <img align="center" src="./src/images/icons/softwares/javascript.svg" alt="Icon-Javascript" />
+  <img align="center" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" width="36px" alt="Icon-Portugol"/> 
+  <img align="center" src="./src/images/icons/softwares/python.png" width="44px" alt="Icon-Python" />  
+  <img align="center" src="./src/images/icons/softwares/reactjs.png" width="44px" alt="Icon-ReactJS" />  
+  <img align="center" src="./src/images/icons/softwares/next.png" width="44px" alt="Icon-Next"/>  
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40px" alt="Icon-GitSCM" />   
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" alt="Icon-Figma" />   
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="44px" alt="Icon-Bootstrap" />
 </div>
     
-<h3><b>🔎✨ • Me encontre também aqui </b></h3>
+
+ ## **GitHub Statistics**
+
+
+<div style="display: flex; gap: 5px;">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=brucamps&show_icons=true&theme=transparent&bg_color=201530&border_color=7f3ace&icon_color=7f3ace&text_color=B6B6B6&title_color=FFFFFF&hide=stars&card_width=50&rank_icon=github&custom_title=Bruna Campos's GitHub&text_bold=false&ring_color=7f3ace" />
+    <img src="https://github-readme-stats.vercel.app/api?username=brucamps&show_icons=true" />
+  </picture>
   
-<div>
-  <a href="https://www.instagram.com/brucamps_095/">
-    <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/instagram-.png" width="42" />
-  </a>
-  <a href="https://www.linkedin.com/in/-bruna-campos/">
-    <img align="center" src="https://github.com/BruCamps/BruCamps/blob/main/src/images/icons/redes-sociais/linkedin-.png" width="42" />
-  </a>
+  <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brucamps&theme=transparent&bg_color=201530&border_color=7f3ace&text_color=B6B6B6&title_color=FFFFFF&layout=compact&card_width=400&custom_title=My Programming Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=brucamps&show_icons=true" />
+  </picture>
 </div>
-  
- 
-  
+
+
  
