@@ -35,7 +35,7 @@
  ## **GitHub Statistics**
 
 <div style="display: flex;">
-   <img src="https://github-readme-stats.vercel.app/api?username=brucamps&show_icons=true&theme=transparent&bg_color=201530&border_color=7f3ace&icon_color=7f3ace&text_color=B6B6B6&title_color=FFFFFF&hide=stars&card_width=50&rank_icon=github&custom_title=Bruna Campos's GitHub&text_bold=false&ring_color=7f3ace" />
+   <img src="https://github-readme-stats.vercel.app/api?username=brucamps&show_icons=true&theme=transparent&bg_color=201530&border_color=7f3ace&icon_color=7f3ace&text_color=B6B6B6&title_color=FFFFFF&hide=stars&card_width=20&rank_icon=github&custom_title=Bruna Campos's GitHub&text_bold=false&ring_color=7f3ace" />
   
    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucamps&theme=transparent&bg_color=201530&border_color=7f3ace&text_color=B6B6B6&title_color=FFFFFF&layout=compact&card_width=400&custom_title=My Programming Languages" />
 </div>
