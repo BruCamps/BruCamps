@@ -40,3 +40,6 @@
    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucamps&theme=transparent&bg_color=201530&border_color=7f3ace&text_color=B6B6B6&title_color=FFFFFF&layout=compact&card_width=350&custom_title=My Programming Languages" width="40%"/>
 </div>
 
+#
+
+Feito com 💜 por Bru
