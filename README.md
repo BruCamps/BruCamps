@@ -8,7 +8,7 @@ Sou programadora, designer e técnica em desenvolvimento de sistemas
 ## Sobre mim
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFpcXF3dXM5NGhkcHJtbzc0cDN1NzIwZnZzOTdseWhyZ2o3cmw0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/200.webp" align="right" width="33%"/>
 
-💜 Motivada a aprender e evoluir continuamente e adoro desenvolver soluções
+💜 Sempre buscando aprender mais e entusiasmada por resolver desafios
 
 💻 Possuo experiência em **HTML, CSS, JS e ReactJS** 
 
