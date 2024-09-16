@@ -1,13 +1,16 @@
 
 ## **Hello, Devs! Me chamo Bruna Campos! ✨**
   
-> #### Sou programadora, designer e técnica em desenvolvimento de sistemas
+Sou programadora, designer e técnica em desenvolvimento de sistemas
+
+
 
 ## Sobre mim
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFpcXF3dXM5NGhkcHJtbzc0cDN1NzIwZnZzOTdseWhyZ2o3cmw0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/200.webp" align="right" width="33%"/>
 
-💜 Sou curiosa, empenhada em aprender constantemente<br>e adoro desenvolver soluções
+💜 Motivada a aprender e evoluir continuamente e adoro desenvolver soluções
 
-💻 Possuo experiência em **HTML, CSS e ReactJS** 
+💻 Possuo experiência em **HTML, CSS, JS e ReactJS** 
 
 📄 Possuo experiência em **Design Web e Figma**
 
@@ -15,7 +18,7 @@
 
 ⭐ Gosto de ler, tocar ukulele e desenhar
 
-
+<br>
 
 ## **Tecnologias & Ferramentas**
 <div>
